@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MyStory</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="message_welcome_page">App where you can post your own picture and share it with other!</string>
+    <string name="title_welcome_page">Welcome to PhotoApp!</string>
+    <string name="title_signup_page">Fill in Your Data!</string>
+    <string name="message_login">Create Your Own Story</string>
+    <string name="backToLogin">Back to login</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_error">Password should have at least 6 characters</string>
+    <string name="email_error">Please fill in your email correctly</string>
+
+    <string name="username">Username</string>
+    <string name="description">Description</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="input_name">Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="write_your_description">Write Your Description</string>
+    <string name="add">Add</string>
+    <string name="image_story">Image Story</string>
+    <string name="image_placeholder">Image Placeholder</string>
+    <string name="image_login">Image Login</string>
+    <string name="image_signup">Image Signup</string>
+    <string name="remember_me">Keep Me Logged in</string>
+    <string name="please_fill_out">Description must be filled</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="start_point">Start Point</string>
+    <string name="start_running">Start Running</string>
+    <string name="stop_running">Stop Running</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="created">created</string>
+    <string name="floatingButton">TODO</string>
+</resources>
